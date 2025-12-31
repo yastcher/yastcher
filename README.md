@@ -1,9 +1,22 @@
 ### yastcher
 
-```python
-stack = ["Python", "Kotlin", "SQL", "Assembly"]
-interests = ["Backend", "ML/CV", "Low-level"]
-```
+I passionate about AI technologies,
+have degree in Applied Mathematics and Computer Science,
+have experience in improving team performance (correct git flow, system design,
+code review, CI/CD), have experience in creating MVP and deploying it to production.
+Also i have experience working with highload legacy code.
+I want to deliver clean, reliable and easy to understand code.
+
+Stack: Python • FastAPI • Django • DRF • aiohttp • PostgreSQL • SQLAlchemy • MongoDB •
+Computer Vision • opencv • pytorch • triton • ultralytics • pytest • trophy • TDD •
+Playwright • Prometius/Grafana • Docker • CI/CD • Git • Linux • Go • TypeScript • Redis
+• RabbitMQ • NATS • GIS • RPC • GStreamer/ffmpeg • RTSP • S3 • GCP
+
+Soft Skills
+Psychology of small groups • Time management • Quick learner • Mentoring
+Native = Russian,
+English = B2 - Upper intermediate,
+Spain, German = A1 - Elementary
 
 <img src="https://github-readme-stats.vercel.app/api?username=yastcher&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yastcher&theme=transparent&hide_border=true" />
