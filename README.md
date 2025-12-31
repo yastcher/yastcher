@@ -20,7 +20,7 @@ English = B2 - Upper intermediate,
 Spain, German = A1 - Elementary
 ```
 
-<img src="https://streak-stats.demolab.com/?user=yastcher&theme=transparent&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=yastcher&theme=transparent&hide_border=true" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yastcher&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yastcher&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yastcher&theme=transparent" />
