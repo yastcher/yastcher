@@ -1,6 +1,6 @@
 ### yastcher
 
-""""
+```
 I passionate about AI technologies,
 have degree in Applied Mathematics and Computer Science,
 have experience in improving team performance (correct git flow, system design,
@@ -18,7 +18,7 @@ Psychology of small groups • Time management • Quick learner • Mentoring
 Native = Russian,
 English = B2 - Upper intermediate,
 Spain, German = A1 - Elementary
-""""
+```
 
 <img src="https://github-readme-stats.vercel.app/api?username=yastcher&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yastcher&theme=transparent&hide_border=true" />
