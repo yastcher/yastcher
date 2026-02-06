@@ -23,5 +23,7 @@ German = A1 - Elementary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yastcher&theme=transparent" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yastcher&theme=transparent&utcOffset=0" />
 
 Open to proposals and collaboration in hakathon projects and other interesting topics:
+
 yastcher@gmail.com
+
 https://www.kaggle.com/yastcher
