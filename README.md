@@ -11,13 +11,14 @@ Spanish = A2 - Pre-intermediate;
 German = A1 - Elementary
 ```
 
-<img src="https://streak-stats.demolab.com/?user=yastcher&theme=transparent&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=yastcher&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yastcher&layout=compact&theme=transparent&hide_border=true&langs_count=16&include_forks=true&size_weight=0.1&count_weight=0.1" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=yastcher&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yastcher&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yastcher&layout=compact&theme=transparent&hide_border=true&langs_count=16&include_forks=true&size_weight=0.1&count_weight=0.1" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yastcher&theme=transparent" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yastcher&theme=transparent" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yastcher&theme=transparent" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yastcher&theme=transparent" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yastcher&theme=transparent&include_forks=true" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yastcher&theme=transparent" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yastcher&theme=transparent&utcOffset=0" />
 
