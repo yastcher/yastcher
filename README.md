@@ -1,4 +1,4 @@
-# Hi, I'm Yast and this is about my skills:
+# Hi there, I'm Yast and this is about my skills:
 ```
 Stack: Python • FastAPI • Django • DRF • aiohttp • Computer Vision • opencv • pytorch • triton •
 ultralytics • SQLAlchemy • PostgreSQL • MongoDB • Clickhouse • Redis • RabbitMQ • NATS •
@@ -9,7 +9,11 @@ Russian = Native;
 English = B2 - Pre-advanced;
 Spanish = A2 - Pre-intermediate;
 German = A1 - Elementary
+
+Open to proposals and collaboration in hackathon projects and other interesting topics.
 ```
+<a href="mailto:yastcher@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.kaggle.com/yastcher"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=yastcher&theme=transparent&hide_border=true" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yastcher&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
@@ -22,8 +26,4 @@ German = A1 - Elementary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yastcher&theme=transparent" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yastcher&theme=transparent&utcOffset=0" />
 
-Open to proposals and collaboration in hakathon projects and other interesting topics:
-
-yastcher@gmail.com
-
-https://www.kaggle.com/yastcher
+<img src="https://komarev.com/ghpvc/?username=yastcher&color=blueviolet&style=for-the-badge" />
