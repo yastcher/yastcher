@@ -47,5 +47,3 @@ Open to proposals and collaboration in hackathon projects and other interesting 
 ```
 <a href="mailto:yastcher@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.kaggle.com/yastcher"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=yastcher&color=blueviolet&style=for-the-badge" />
