@@ -7,7 +7,7 @@ Skills = {
     ],
     "ml_cv": [
         "PyTorch", "OpenCV", "Triton", "Ultralytics", "CUDA",
-        "GStreamer", "ffmpeg", "RTSP"
+        "OCR", "Transformers", "DINO", "CLIP", "Whisper"
     ],
     "databases": [
         "PostgreSQL", "PostGIS", "MongoDB", "ClickHouse", "Redis", "MySQL", "MSSQL"
@@ -16,20 +16,21 @@ Skills = {
         "RabbitMQ", "NATS"
     ],
     "devops": [
-        "Docker", "CI/CD", "Kubernetes", "Prometheus", "Grafana",
+        "Docker", "CI/CD", "Kubernetes", "Prometheus", "Grafana", "ELK",
         "GitLab CI", "GitHub Actions"
     ],
     "testing": [
         "pytest", "TDD", "TROPHY", "Playwright"
     ],
     "code_quality": [
-        "strict typing", "linters"
+        "strict typing", "linters", "code review", "TDD", "BDD"
     ],
     "architecture": [
         "System Design", "Microservices", "REST API", "DDD"
     ],
-    "tools": [
-        "Git", "Linux", "S3", "GCP", "Postman"
+    "tools&tech": [
+        "Git", "Linux", "S3", "GCP", "Postman",
+        "GStreamer", "ffmpeg", "RTSP"
     ],
     "llm": [
         "OpenAI API", "Claude API", "Claude Code",
