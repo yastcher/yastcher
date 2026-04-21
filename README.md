@@ -3,38 +3,39 @@
 Skills = {
     "languages_frameworks": [
         "Python", "Go", "TypeScript",
-        "FastAPI", "Django", "DRF", "aiohttp", "SQLAlchemy", "Solid.js"
+        "FastAPI", "Django", "DRF", "aiohttp", "SQLAlchemy", "Solid.js", "React.js"
     ],
     "ml_cv": [
-        "PyTorch", "OpenCV", "Triton", "Ultralytics", "CUDA",
-        "OCR", "Transformers", "DINO", "CLIP", "Whisper"
+        "PyTorch", "OpenCV", "Triton", "Ultralytics", "JIT", "CUDA",
+        "CatBoost", "OCR", "HuggingFace", "Transformers", "DINO", "CLIP",
+        "Whisper", "ASR", "Diarization", "Fuzzy matching"
+    ],
+    "llm": [
+        "OpenAI API", "Claude API", "Claude Code",
+        "AI-assisted development workflows", "SDD"
     ],
     "databases": [
-        "PostgreSQL", "PostGIS", "MongoDB", "ClickHouse", "Redis", "MySQL", "MSSQL"
+        "PostgreSQL", "PostGIS", "pgBouncer", "MongoDB", "ClickHouse", "MySQL", "MSSQL"
     ],
     "messaging": [
-        "RabbitMQ", "NATS"
-    ],
-    "devops": [
-        "Docker", "CI/CD", "Kubernetes", "Prometheus", "Grafana", "ELK",
-        "GitLab CI", "GitHub Actions"
+        "RabbitMQ", "NATS", "Redis", "S3", "GCP"
     ],
     "testing": [
         "pytest", "TDD", "TROPHY", "Playwright"
     ],
     "code_quality": [
-        "strict typing", "linters", "code review", "TDD", "BDD"
+        "strict typing", "linters", "ruff", "ty", "code review culture", "latency profiling", "TDD"
     ],
-    "architecture": [
-        "System Design", "Microservices", "REST API", "DDD"
+    "devops": [
+        "Docker", "CI/CD", "Kubernetes", "GitFlow", "TBD", "Prometheus", "Grafana", "ELK",
+        "GitLab CI", "GitHub Actions"
     ],
     "tools&tech": [
         "Git", "Linux", "S3", "GCP", "Postman",
         "GStreamer", "ffmpeg", "RTSP"
     ],
-    "llm": [
-        "OpenAI API", "Claude API", "Claude Code",
-        "AI-assisted development workflows"
+    "architecture": [
+        "System Design", "Microservices", "REST API", "RPC", "CQRS", "DDD", "BDD"
     ],
 
     "languages": [
