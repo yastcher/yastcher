@@ -1,49 +1,23 @@
 # Hi there, I'm Yast and this is about my skills:
-```python
-Skills = {
-    "languages_frameworks": [
-        "Python", "Go", "TypeScript",
-        "FastAPI", "Django", "DRF", "aiohttp", "SQLAlchemy", "Solid.js", "React.js"
-    ],
-    "ml_cv": [
-        "PyTorch", "OpenCV", "Triton", "Ultralytics", "JIT", "CUDA",
-        "CatBoost", "OCR", "HuggingFace", "Transformers", "DINO", "CLIP",
-        "Whisper", "ASR", "Diarization", "Fuzzy matching"
-    ],
-    "llm": [
-        "OpenAI API", "Claude API", "Claude Code",
-        "AI-assisted development workflows", "SDD"
-    ],
-    "databases": [
-        "PostgreSQL", "PostGIS", "pgBouncer", "MongoDB", "ClickHouse", "MySQL", "MSSQL"
-    ],
-    "messaging": [
-        "RabbitMQ", "NATS", "Redis", "S3", "GCP"
-    ],
-    "testing": [
-        "pytest", "TDD", "TROPHY", "Playwright"
-    ],
-    "code_quality": [
-        "strict typing", "linters", "ruff", "ty", "code review culture", "latency profiling", "TDD"
-    ],
-    "devops": [
-        "Docker", "CI/CD", "Kubernetes", "GitFlow", "TBD", "Prometheus", "Grafana", "ELK",
-        "GitLab CI", "GitHub Actions"
-    ],
-    "tools&tech": [
-        "Git", "Linux", "S3", "GCP", "Postman",
-        "GStreamer", "ffmpeg", "RTSP"
-    ],
-    "architecture": [
-        "System Design", "Microservices", "REST API", "RPC", "CQRS", "DDD", "BDD"
-    ],
+```text
+Languages: Python, Go, TypeScript
+Frameworks: FastAPI, Django, DRF, aiohttp, Solid.js, React.js, SQLAlchemy, Pydantic AI
+ML/CV: PyTorch, OpenCV, Triton, Ultralytics, JIT, Cuda, Jupyter, RAG, CatBoost, OCR,
+HuggingFace, Transformers (DINO, CLIP), Whisper, ASR, Diarization, Fuzzy matching
+LLM: OpenAI API, Claude API, TEI, Voyage, tool calling, Claude Code, AI-assisted
+development workflows, SDD
+Databases: PostgreSQL, postGIS, pgBouncer, pgvector, MongoDB, ClickHouse, MySQL
+Messaging/Clouds: RabbitMQ, NATS, Redis, AWS S3, GCP
+AQA: pytest, TROPHY, Playwright (for e2e and web scraping)
+Code quality: TDD, BDD, ruff, ty, strict typing, code review culture, latency profiling
+DevOps: Docker, Kubernetes, CI/CD, GitFlow, TBD, Prometheus, Grafana, ELK, Nexus,
+Gitlab CI, GitHub Actions
+Tools: Git, Linux, uv, GStreamer, ffmpeg, RTSP, PipeWire/PulseAudio, nmap, Postman
+Architecture: System Design, Microservices, REST API, RPC, gRPC, CQRS, DDD
 
-    "languages": [
-        "Russian": "Native",
-        "English": "B2 - Pre-advanced",
-        "Spanish": "A2 - Pre-intermediate"
-    ]
-}
+English = B2 - Pre-advanced;
+Spanish = A2 – Pre-intermediate;
+Russian = Native
 
 Open to proposals and collaboration in hackathon projects and other interesting topics.
 ```
