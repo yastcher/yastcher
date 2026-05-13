@@ -1,19 +1,20 @@
 # Hi there, I'm Yast and this is about my skills:
 ```text
-Languages: Python, Go, TypeScript
-Frameworks: FastAPI, Django, DRF, aiohttp, Solid.js, React.js, SQLAlchemy, Pydantic AI
+Languages/Frameworks: Python, Go, TypeScript, FastAPI, Django, DRF, aiohttp, Solid.js,
+React.js, SQLAlchemy
 ML/CV: PyTorch, OpenCV, Triton, Ultralytics, JIT, Cuda, Jupyter, RAG, CatBoost, OCR,
 HuggingFace, Transformers (DINO, CLIP), Whisper, ASR, Diarization, Fuzzy matching
-LLM: OpenAI API, Claude API, TEI, Voyage, tool calling, Claude Code, AI-assisted
-development workflows, SDD
+LLM: OpenAI API, Claude API, Pydantic AI, TEI, Voyage, tool calling, Claude Code,
+AI-assisted development workflows, SDD
 Databases: PostgreSQL, postGIS, pgBouncer, pgvector, MongoDB, ClickHouse, MySQL
 Messaging/Clouds: RabbitMQ, NATS, Redis, AWS S3, GCP
 AQA: pytest, TROPHY, Playwright (for e2e and web scraping)
 Code quality: TDD, BDD, ruff, ty, strict typing, code review culture, latency profiling
-DevOps: Docker, Kubernetes, CI/CD, GitFlow, TBD, Prometheus, Grafana, ELK, Nexus,
-Gitlab CI, GitHub Actions
+DevOps/MLOps: Docker, Kubernetes, CI/CD, DVC, GitFlow/TBD, Prometheus, Grafana,
+ELK, Nexus, Gitlab CI, GitHub Actions
 Tools: Git, Linux, uv, GStreamer, ffmpeg, RTSP, PipeWire/PulseAudio, nmap, Postman
-Architecture: System Design, Microservices, REST API, RPC, gRPC, CQRS, DDD
+Architecture: System Design, Microservices, REST API, CQRS, RPC, gRPC, CLI, SSE,
+Websockets, DDD
 
 English = B2 - Pre-advanced;
 Spanish = A2 – Pre-intermediate;
