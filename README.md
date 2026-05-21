@@ -1,23 +1,26 @@
-# Hi there, I'm Yast and this is about my skills:
-```text
-Languages/Frameworks: Python, Go, TypeScript, FastAPI, Django, DRF, aiohttp, Solid.js,
-React.js, SQLAlchemy
-ML/CV: PyTorch, OpenCV, Triton, Ultralytics, JIT, Cuda, Jupyter, RAG, CatBoost, OCR,
-HuggingFace, Transformers (DINO, CLIP), Whisper, ASR, Diarization, Fuzzy matching
-LLM: OpenAI API, Claude API, Pydantic AI, TEI, Voyage, tool calling, Claude Code,
-AI-assisted development workflows, SDD
-Databases: PostgreSQL, postGIS, pgBouncer, pgvector, MongoDB, ClickHouse, MySQL
-Messaging/Clouds: RabbitMQ, NATS, Redis, AWS S3, GCP
-AQA: pytest, TROPHY, Playwright (for e2e and web scraping)
-Code quality: TDD, BDD, ruff, ty, strict typing, code review culture, latency profiling
-DevOps/MLOps: Docker, Kubernetes, CI/CD, DVC, GitFlow/TBD, Prometheus, Grafana,
-ELK, Nexus, Gitlab CI, GitHub Actions
-Tools: Git, Linux, uv, GStreamer, ffmpeg, RTSP, PipeWire/PulseAudio, nmap, Postman
-Architecture: System Design, Microservices, REST API, CQRS, RPC, gRPC, CLI, SSE,
-Websockets, DDD
+# Hi, this is about my skills:
+**Languages & frameworks:** Python, FastAPI, SQLAlchemy, Django / DRF, aiohttp; TypeScript, Node.js, NestJS, Solid.js, React; Go
+
+**ML / CV / inference:** PyTorch, ONNX, CUDA, Triton, JIT, OpenCV, Ultralytics, CatBoost; HuggingFace Transformers (DINO, CLIP), Whisper, ASR, diarization, OCR; Jupyter
+
+**LLM / agents / RAG:** Claude API, OpenAI API; RAG, MCP, tool calling, Pydantic AI, TEI, Voyage embeddings, fuzzy matching; Claude Code, Archestra; AI-assisted development workflows, SDD
+
+**Databases:** PostgreSQL (with PostGIS, pgvector), Apache AGE (graph), ClickHouse, MySQL, MongoDB, Redis, Valkey; pgBouncer
+
+**Messaging & clouds:** RabbitMQ, NATS; AWS S3, GCP
+
+**Testing & code quality:** pytest, pytest-archon, mutmut; TROPHY testing strategy; Playwright (e2e + scraping); TDD, BDD; ruff, mypy / ty, strict typing; code review culture; latency profiling (p50 / p95)
+
+**DevOps / MLOps:** Docker, Kubernetes, GitLab CI, GitHub Actions; DVC, Nexus; Prometheus, Grafana, OpenTelemetry, ELK; GitFlow / TBD
+
+**Architecture:** Microservices, REST, gRPC, RPC, CQRS, CLI; system design, DDD; SSE, WebSockets
+
+**Linux & media tools:** Linux, Git, uv; GStreamer, FFmpeg, RTSP; PipeWire / PulseAudio; nmap, Postman
 
 English = B2 - Pre-advanced;
+
 Spanish = A2 – Pre-intermediate;
+
 Russian = Native
 
 Open to proposals and collaboration in hackathon projects and other interesting topics.
