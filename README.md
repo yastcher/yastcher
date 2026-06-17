@@ -1,21 +1,20 @@
 # Hi, this is about my skills:
-**Languages & frameworks:** Python, FastAPI, SQLAlchemy, Django / DRF, aiohttp; TypeScript, Node.js, NestJS, Solid.js, React; Go
 
-**ML / CV / inference:** PyTorch, ONNX, CUDA, Triton, JIT, OpenCV, Ultralytics, CatBoost; HuggingFace Transformers (DINO, CLIP), Whisper, ASR, diarization, OCR; Jupyter
+**Languages & frameworks:** Python, FastAPI, SQLAlchemy, Django, DRF, aiohttp, Go, JS, TypeScript, React, Node.js, NestJS, Solid.js, Sigma.js
 
-**LLM / agents / RAG:** Claude API, OpenAI API; RAG, MCP, tool calling, Pydantic AI, TEI, Voyage embeddings, fuzzy matching; Claude Code, Archestra; AI-assisted development workflows, SDD
+**ML / CV:** PyTorch, ONNX, CUDA, Triton, JIT, OpenCV, Ultralytics, CatBoost, HuggingFace Transformers (DINO, CLIP), Whisper, ASR, diarization, OCR, Jupyter, machine learning, computer vision
 
-**Databases:** PostgreSQL (with PostGIS, pgvector), Apache AGE (graph), ClickHouse, MySQL, MongoDB, Redis, Valkey; pgBouncer
+**LLM / agents:** Claude API, OpenAI API, RAG  (Agentic, Dreaming, Memory Consolidation, LLM-as-a-judge), MCP, tool calling, Pydantic AI, TEI, Voyage embeddings, fuzzy matching, Claude Code, Archestra, AI-assisted development workflows, SDD
 
-**Messaging & clouds:** RabbitMQ, NATS; AWS S3, GCP
+**Databases / Messaging:** PostgreSQL, postGIS, pgvector, Apache AGE, pgBouncer, ClickHouse, MySQL, MongoDB, Redis, Valkey, RabbitMQ, NATS
 
-**Testing & code quality:** pytest, pytest-archon, mutmut; TROPHY testing strategy; Playwright (e2e + scraping); TDD, BDD; ruff, mypy / ty, strict typing; code review culture; latency profiling (p50 / p95)
+**Testing & code quality:** pytest, TDD, TROPHY, Playwright, ruff, mypy, ty, code review culture, latency profiling
 
-**DevOps / MLOps:** Docker, Kubernetes, GitLab CI, GitHub Actions; DVC, Nexus; Prometheus, Grafana, OpenTelemetry, ELK; GitFlow / TBD
+**DevOps / MLOps:** Docker, Kubernetes, Nginx, CI/CD, GitLab CI, GitHub Actions, DVC, Nexus, Prometheus, Grafana, OpenTelemetry, Sentry, ELK, AWS S3, GCP, Cloudflare, GitFlow / TBD
 
-**Architecture:** Microservices, REST, gRPC, RPC, CQRS, CLI; system design, DDD; SSE, WebSockets
+**Architecture:** Microservices, ESB, API design, REST, gRPC, RPC, CQRS, CLI, GraphQL, system design, DDD, SSE, WebSockets
 
-**Linux & media tools:** Linux, Git, uv; GStreamer, FFmpeg, RTSP; PipeWire / PulseAudio; nmap, Postman
+**Other:** Linux, Git, uv, GStreamer, FFmpeg, RTSP, PipeWire, PulseAudio, nmap
 
 English = B2 - Pre-advanced;
 
