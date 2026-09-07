@@ -4,7 +4,7 @@
 <a href="https://www.kaggle.com/yastcher"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 
 ### Core stack:
-Python · FastAPI · TypeScript · React · PostgreSQL · PyTorch · OpenCV · RAG · Docker · OpenTelemetry
+Python · FastAPI · TypeScript · React · PostgreSQL · PyTorch · OpenCV · RAG · Docker · Clouds · OpenTelemetry
 
 English = B2 - Pre-advanced;
 
